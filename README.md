@@ -39,7 +39,7 @@ Este repositório reúne projetos práticos desenvolvidos com foco no mercado de
 ## 🗺️ Roadmap de Evolução Técnica
 
 - [x] **Semana 1:** Fundamentos de Python Puro aplicados ao Futebol
-- [ ] **Semana 2:** Manipulação e Tratamento de Tabelas de Campeonatos com Pandas
+- [x] **Semana 2:** Manipulação e Tratamento de Tabelas de Campeonatos com Pandas
 - [ ] **Semana 3:** Ingestão de Dados Reais de Eventos com StatsBomb
 - [ ] **Semana 4:** Dashboards no Looker Studio & Radares de Scouting (PyPizza)
 - [ ] **Semana 5:** Gramados Virtuais e Redes de Passes (Passing Networks)
