@@ -23,7 +23,7 @@ Métricas calculadas em percentis (0 a 100) utilizando a biblioteca `mplsoccer`:
 ## 💻 Painel Interativo no Looker Studio
 O painel foi desenhado sob metodologia executiva com filtros dinâmicos de posição, idade e barras de dados:
 
-- 🔗 **Link de Acesso ao Painel Interativo:** [Cole aqui o link de partilha do teu Looker Studio]
+- 🔗 **Link de Acesso ao Painel Interativo:** https://datastudio.google.com/s/lk9EXDkTrT0
 
 ---
 
