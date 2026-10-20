@@ -1,0 +1,14 @@
+﻿jogador,clube,idade,posicao,minutos_jogados,gols,assistencias,participacoes_gols,gols_p90,assistencias_p90,part_gols_p90
+Vinícius Júnior,Real Madrid,24,Extremo,1950,12,7,19,0.55,0.32,0.88
+Savinho,Manchester City,20,Extremo,1200,5,6,11,0.38,0.45,0.82
+Jérémy Doku,Manchester City,22,Extremo,980,4,3,7,0.37,0.28,0.64
+Lamine Yamal,Barcelona,17,Extremo,1420,6,8,14,0.38,0.51,0.89
+Casemiro,Manchester United,32,Volante,1420,2,2,4,0.13,0.13,0.25
+Rodri,Manchester City,28,Volante,1890,6,7,13,0.29,0.33,0.62
+João Palhinha,Bayern de Munique,29,Volante,1100,0,1,1,0.0,0.08,0.08
+Manuel Ugarte,Manchester United,23,Volante,950,0,1,1,0.0,0.09,0.09
+André,Wolverhampton,23,Volante,1340,1,1,2,0.07,0.07,0.13
+Jude Bellingham,Real Madrid,21,Meia Ofensivo,1820,15,8,23,0.74,0.4,1.14
+Florian Wirtz,Bayer Leverkusen,21,Meia Ofensivo,1650,11,12,23,0.6,0.65,1.25
+Cole Palmer,Chelsea,22,Meia Ofensivo,1710,14,9,23,0.74,0.47,1.21
+Gavi,Barcelona,20,Meia Ofensivo,890,2,3,5,0.2,0.3,0.51
